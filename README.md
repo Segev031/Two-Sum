@@ -1,2 +1,2 @@
 # twoSum
-Answer for Two Sum question of LeetCode
+Answer for Two Sum question of LeetCode with Python and JavaScript.
